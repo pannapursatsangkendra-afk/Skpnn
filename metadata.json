@@ -1,0 +1,8 @@
+{
+  "name": "SKPNN Temple",
+  "description": "A comprehensive app to digitize temple records, monthly Istravrity collections, SKPNN entries, and financial tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
